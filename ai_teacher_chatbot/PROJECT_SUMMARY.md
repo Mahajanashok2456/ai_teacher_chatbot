@@ -65,9 +65,6 @@ OPENAI_API_KEY=your_api_key_here
 # Web interface (recommended)
 streamlit run main.py
 
-# Command-line interface
-python cli_version.py
-
 # Demo mode
 python demo.py
 ```
@@ -143,5 +140,6 @@ This project demonstrates proficiency in:
 
 **Estimated completion time**: ~5 hours (as specified in requirements)
 **All requirements met**: ✅ 100%
+
 
 

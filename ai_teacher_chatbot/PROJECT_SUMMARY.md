@@ -125,15 +125,13 @@ This project demonstrates proficiency in:
 1. **API Integration**: OpenAI API usage
 2. **Natural Language Processing**: Language detection and processing
 3. **Web Development**: Streamlit application development
-4. **Command-Line Development**: CLI interface creation
-5. **Multilingual Programming**: Support for multiple languages
-6. **Documentation**: Comprehensive project documentation
-7. **User Experience**: Intuitive and helpful interfaces
+4. **Multilingual Programming**: Support for multiple languages
+5. **Documentation**: Comprehensive project documentation
+6. **User Experience**: Intuitive and helpful interfaces
 
 ## 🏆 Project Highlights
 
 - **Production-Ready**: Complete with error handling and user guides
-- **User-Friendly**: Both web and command-line interfaces
 - **Educational**: Focused on learning and teaching
 - **Multilingual**: Truly international application
 - **Well-Documented**: Comprehensive documentation and setup guides
@@ -145,4 +143,5 @@ This project demonstrates proficiency in:
 
 **Estimated completion time**: ~5 hours (as specified in requirements)
 **All requirements met**: ✅ 100%
+
 

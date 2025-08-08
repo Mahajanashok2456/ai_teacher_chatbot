@@ -29,10 +29,6 @@
 - Language detection display
 - Example questions provided
 
-✅ **CLI interface**: 
-- Command-line version available
-- Interactive conversation flow
-- Help system and examples
 
 ✅ **Language detection**: 
 - Automatic input language identification
@@ -149,3 +145,4 @@ This project demonstrates proficiency in:
 
 **Estimated completion time**: ~5 hours (as specified in requirements)
 **All requirements met**: ✅ 100%
+
